@@ -7,6 +7,7 @@ namespace master_main
         static void Main(string[] args)
         {
             Console.WriteLine("this is master main");
+            Console.WriteLine("this is allobov_main1");
             Console.ReadKey();
         }
     }
